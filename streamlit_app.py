@@ -288,6 +288,9 @@ with MainTab:
             # then we'll convert the list to a dataframe
             df = pd.DataFrame.from_dict(list_for_api_output)
 
+
+        st.write(df)
+
         st.success("✅ Done!")
 
         st.caption("")
