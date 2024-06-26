@@ -57,8 +57,8 @@ streamlit-tags==1.2.8
 tenacity==8.4.1
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.16.1
-tensorflow-intel==2.16.1
+tensorflow
+tensorflow-intel
 termcolor==2.4.0
 tf_keras==2.16.0
 tokenizers==0.19.1
